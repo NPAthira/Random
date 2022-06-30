@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+  
+
+    background-color: cornflowerblue;
+}
+ol{
+    list-style: lower-alpha;
+}
+ul{
+    list-style: square;
+   text-align: center;
+   display: inline-block;
+}
